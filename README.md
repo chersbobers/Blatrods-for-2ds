@@ -1,9 +1,11 @@
-# Balatro DS Port
-A port of fire game Balatro to the nintendo DS made using MicroLUA.
+# Love potion port for the ds baltro
+A port of fire game Balatro to the nintendo DS made using MicroLUA. Then thats ported to the 2ds and 3ds with love potion :O
 
 ## How to Install
-1. Get MicroLUA from https://www.gamebrew.org/wiki/Micro_Lua_DS
-2. Put the source code folder into lua/scripts/
+<bold> YOU NEED A HOMEBREWED 2DS OR 3DS FOR THIS PLEASE FIND A GUIDE TO HACK YOURS <bold>
+
+1. Get love potion
+2. Extract the 
 3. To play in DeSmuME, navigate to Config > Slot 2 (GBA Slot)
 4. From there change the drop down to Flash Card Device and the folder to the folder with MicroLua 4.7.2.nds
 
